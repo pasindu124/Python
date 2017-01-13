@@ -26,8 +26,6 @@ S.push(20)
 S.push(30)
 S.pop()
 S.push(450)
-
-
 print(S.peek())
 print(S.printS())
 
