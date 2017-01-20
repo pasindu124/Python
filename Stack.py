@@ -1,3 +1,4 @@
+#coding by Pasindu Weerasinghe
 class Stack:
     def __init__(self):
         self.list=[]
